@@ -1,1 +1,1 @@
-# Groq-_genai_workshop_chatbot
+# Groq_genai_workshop_chatbot
